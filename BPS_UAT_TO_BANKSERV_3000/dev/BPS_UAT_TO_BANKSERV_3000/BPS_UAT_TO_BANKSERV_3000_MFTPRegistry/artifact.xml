@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="BPS_UAT_TO_BANKSERV_3000_mftp_properties_xml" groupId="com.example.BPS_UAT_TO_BANKSERV_3000_MFTP.resource" version="1.0.0" type="registry/resource" serverRole="EnterpriseIntegrator">
+        <item>
+            <file>BPS_UAT_TO_BANKSERV_3000_mftp_properties.xml</file>
+            <path>/_system/governance/custom</path>
+            <mediaType>application/xml</mediaType>
+        </item>
+    </artifact>
+</artifacts>

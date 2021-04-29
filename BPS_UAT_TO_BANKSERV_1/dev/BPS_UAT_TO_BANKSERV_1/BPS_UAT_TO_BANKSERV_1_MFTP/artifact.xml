@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="BPS_UAT_TO_BANKSERV_1_IEP" groupId="com.example.BPS_UAT_TO_BANKSERV_1_MFTP.inbound-endpoint" version="1.0.0" type="synapse/inbound-endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/inbound-endpoints/BPS_UAT_TO_BANKSERV_1_IEP.xml</file>
+    </artifact>
+</artifacts>
